@@ -1,0 +1,4 @@
+Flask==3.0.2
+Flask-Cors==4.0.0
+geopy==2.4.1
+numpy==1.26.3
